@@ -7,9 +7,13 @@
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
-printf("Desafio trunfo\n");
-
-printf("trabalho faculdade\n");
+int estado;
+char carta [20];
+char cidade [20];
+int populacao;
+float area;
+float pib;
+int pontos;
 
   // Área para entrada de dados
 
