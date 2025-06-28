@@ -40,5 +40,13 @@ scanf("%d", &pontos);
 
   // Área para exibição dos dados da cidade
 
+  printf("Nome do estado: %s\n", estado);
+  printf("Código da carta: %s\n", carta);
+  printf("Nome da cidade: %s\n", cidade);
+  printf("Número de habitantes: %d\n", populacao);
+  printf("Área por km: %f\n", area);
+  printf("PIB: %f\n", pib);
+  printf("Número de pontos turísticos: %d\n", pontos);
+
 return 0;
 } 
