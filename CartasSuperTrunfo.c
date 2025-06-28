@@ -6,7 +6,11 @@
 
 int main() {
   // Área para definição das variáveis para armazenar as propriedades das cidades
+
 printf("Desafio trunfo\n");
+
+printf("trabalho faculdade\n");
+
   // Área para entrada de dados
 
   // Área para exibição dos dados da cidade
