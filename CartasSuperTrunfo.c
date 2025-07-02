@@ -23,8 +23,6 @@ int main() {
     float densidade2;
     float pib_per_capita2;
 
-    printf("*** Desafio Super Trunfo - Países - Nível Aventureiro ***\n\n");
-
     // ENTRADA DE DADOS PARA A CARTA 1
     printf("--- Cadastro da Carta 1 ---\n");
     printf("Digite o nome do estado: ");
